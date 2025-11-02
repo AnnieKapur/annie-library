@@ -10,7 +10,7 @@ information about all the books.
 
 The library needs to know:
 
-1. the book's ISBN number (e.g. 123-456-789)
+1. the book's ISBN (e.g. 123-456-789)
 2. the book's name (e.g. Dorian Gray)
 3. the quantity they have (e.g 100000000000000... 🤷)
 
