@@ -36,4 +36,3 @@ Focus solely on how you can store the books.
 Then try and write a function to add to the books.
 I am purposely not telling you how to store the books.
 I want you to think about the best way of doing it.
-# annie-library
